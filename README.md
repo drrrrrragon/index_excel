@@ -7,6 +7,8 @@ pyinstaller打包，exe程序占用空间大，运行缓慢，无法修改。
 
 相比之下用python-embedded小巧，小程序的运行速度与安装python环境无异，还可以随时修改程序代码，相当于便携式python开发环境。（当然python-embedded版本要选好）
 
+用python-3.7.4-embed-amd64环境，还需要安装pip，用pip安装index.py里要import的包。详见release。
+
 
 
 
